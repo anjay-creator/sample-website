@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(8, 8, 33);
+
+}
+
+p {
+    color: azure;
+    margin: 0px 20px;
+}
+
+h1 {
+    /* color: beige; */
+    display: flex;
+    justify-content: center;
+}
+
+.colour {
+    color: aliceblue;
+    text-decoration: underline;
+    margin: 30px 0px;
+}
+
+.utube {
+    display: flex;
+    justify-content: center;
+
+}
+
+.videos {
+    margin: 0px 30px;
+}
+
+.text {
+    color: aliceblue;
+}
